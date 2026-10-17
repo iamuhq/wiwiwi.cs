@@ -1,0 +1,28 @@
+{
+    "username": "Wiwiwi",
+    "handle": "@wiwiwi.cs",
+    "tagline": "Développeur Python, C# et Go",
+    "bio": "Je développe en Python, C# et Go. Je m'intéresse à la cybersécurité, avec une attention particulière à l'analyse de malwares, à la rétro-ingénierie et à la compréhension des menaces dans un cadre légal et isolé.",
+    "location": "Développement · recherche défensive",
+    "status": "En ligne",
+    "tags": ["Python", "C#", "Go", "Reverse engineering", "Malware analysis"],
+    "links": [
+        { "name": "GitHub", "url": "https://github.com/" }
+    ],
+    "avatarUrl": "",
+    "backgroundImageUrl": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=2400&q=88",
+    "profileTransparency": 0.5,
+    "profileBorderRadiusPx": 5,
+
+    "songs": [
+        {
+            "name": "Test",
+            "author": "John Doe",
+            "mp3Url": "https://raw.githubusercontent.com/FurStealer/wiwiwi/main/audio_1"
+        }
+    ],
+
+    "backgroundTheme": "noir",
+    "backgroundVideoUrl": "",
+    "accentColor": "#caff57"
+}
